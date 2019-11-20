@@ -1,5 +1,5 @@
 // Perry Holloway
-// Dr.T
+// Dr.T at TCC Trinty River
 // Fundaental Comp II
 // November 5 ,2019
 
@@ -26,3 +26,6 @@ Set();
 cout<<"---->mapSummary<----"<< endl;
 mapSummary();
 }
+
+//I learned different types of STL styles and types but mostly the use of vectors and iterators.
+//  I gained the skills to make my own phone number, the use of vectors for pointers, and the use of the pus_back, reverse, sort list for containers.
